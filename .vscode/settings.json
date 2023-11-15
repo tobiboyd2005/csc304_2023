@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\hello_world\\Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false,
+    "easycode.model": "gpt-3.5-turbo",
+    "easycode.temperature": 1,
+    "easycode.codeLens": true
+}
