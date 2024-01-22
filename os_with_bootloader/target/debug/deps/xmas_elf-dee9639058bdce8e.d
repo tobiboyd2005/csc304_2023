@@ -1,0 +1,11 @@
+C:\Users\New\Documents\cs300Level\sem1\CSC305\csc304_2023\os_with_bootloader\target\debug\deps\libxmas_elf-dee9639058bdce8e.rmeta: C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\lib.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\header.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\sections.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\program.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\symbol_table.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\dynamic.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\hash.rs
+
+C:\Users\New\Documents\cs300Level\sem1\CSC305\csc304_2023\os_with_bootloader\target\debug\deps\xmas_elf-dee9639058bdce8e.d: C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\lib.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\header.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\sections.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\program.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\symbol_table.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\dynamic.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\hash.rs
+
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\lib.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\header.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\sections.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\program.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\symbol_table.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\dynamic.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmas-elf-0.8.0\src\hash.rs:
